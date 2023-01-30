@@ -4,7 +4,7 @@ POC on python web sockets with browsers + python clients
 javascript<br/>
 Python Modules <br/>
 asyncio<br/>
-websockets
-
+websockets<br/>
+json<br/>
 
 
